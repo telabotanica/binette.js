@@ -1,6 +1,7 @@
 {
   "name": "binette.js",
   "main": "binette.js",
+  "version": "0.1a",
   "homepage": "https://github.com/telabotanica/binette.js",
   "authors": [
     "Mathias Chouet <mathias@tela-botanica.org>"
