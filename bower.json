@@ -1,0 +1,24 @@
+{
+  "name": "binette.js",
+  "main": "binette.js",
+  "homepage": "https://github.com/telabotanica/binette.js",
+  "authors": [
+    "Mathias Chouet <mathias@tela-botanica.org>"
+  ],
+  "description": "A Javascript program that replaces character sequences like :-D by unicode emoticons like (U+1F603)",
+  "moduleType": [],
+  "keywords": [
+    "binette",
+    "emoticons",
+    "emoji",
+    "unicode"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
