@@ -8,6 +8,12 @@ It does not contain an exhaustive list of emoji unicode characters at all, feel 
 
 Some characters might be poorly chosen (regarding common font support for example) and it might be relevant to replace them
 
+## Install
+```
+bower install binette.js
+```
+
 ## Usage
 ```javascript
 var modifiedString = Binette.binettize(originalString);
+```
